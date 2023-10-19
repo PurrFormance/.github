@@ -13,7 +13,7 @@ PurrFormance is dedicated to democratizing the use of virtual and augmented real
 
 - **Data Collection:** PurrFormance integrates analytics tools to track student interactions with the content, providing valuable data to assess their understanding and progress.
   
-- **Modular Interfacing:** PurrFormance takes versatility to the next level by offering a modular kit that allows seamless integration with a wide range of hardware and machines. This means you can easily connect our platform to your preferred devices, whether it's cutting-edge VR headsets, AR glasses, or any other emerging technology. This modular approach ensures that PurrFormance remains at the forefront of educational innovation, enabling educators and creators to harness the full potential of VR and AR across various hardware ecosystems.
+- **Interfacing:** PurrFormance excels in its ability to interface with a variety of industrial machinery and protocols, including laser cutters, 3D printers, and assembly line equipment. Our modular kit allows seamless integration with these machines, enabling the creation of immersive educational experiences that bridge the gap between virtual and physical worlds. This unique feature empowers educators and content creators to design training programs that simulate real-world processes, making learning more engaging and practical.
 
 - **Customization:** Tailor learning experiences based on individual student needs for a more engaging experience.
 

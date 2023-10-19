@@ -12,6 +12,8 @@ PurrFormance is dedicated to democratizing the use of virtual and augmented real
 - **Web Accessibility:** Students can access the created content directly from their browsers, eliminating the need for additional app downloads.
 
 - **Data Collection:** PurrFormance integrates analytics tools to track student interactions with the content, providing valuable data to assess their understanding and progress.
+  
+- **Modular Interfacing:** PurrFormance takes versatility to the next level by offering a modular kit that allows seamless integration with a wide range of hardware and machines. This means you can easily connect our platform to your preferred devices, whether it's cutting-edge VR headsets, AR glasses, or any other emerging technology. This modular approach ensures that PurrFormance remains at the forefront of educational innovation, enabling educators and creators to harness the full potential of VR and AR across various hardware ecosystems.
 
 - **Customization:** Tailor learning experiences based on individual student needs for a more engaging experience.
 
